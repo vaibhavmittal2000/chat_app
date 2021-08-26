@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565349583846",
+    "project_id": "flash-chat-8ac8c",
+    "storage_bucket": "flash-chat-8ac8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565349583846:android:e97d4ecbc7ddfaf581a427",
+        "android_client_info": {
+          "package_name": "co.vibhu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565349583846-08nj6unsqk2u6qb7jik95poqb7102a7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAaVXovFIKf0P9h4MJd4_k7RS_2uLLsow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565349583846-08nj6unsqk2u6qb7jik95poqb7102a7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
